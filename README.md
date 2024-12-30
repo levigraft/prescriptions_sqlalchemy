@@ -36,3 +36,20 @@ Before you plan the presentation, start by answering some of these questions.  T
 6. Nashville - Davidson County
   a. Which zip codes in Davidson County have the most opioids prescribed?
   b. Any correlation between the number of missed trash pick ups and number of opioids prescribed?
+
+## Prescription Dashboard
+
+
+![Screenshot 2024-12-30 154952](https://github.com/user-attachments/assets/9143eba3-cb67-4e0a-abcf-6db227a7ef5e)
+
+
+![Screenshot 2024-12-30 155006](https://github.com/user-attachments/assets/5be50522-0cf4-4142-953d-397082ad6bd1)
+
+
+![Screenshot 2024-12-30 155015](https://github.com/user-attachments/assets/e2be3194-8b87-45fb-b697-a440e8c6a60c)
+
+![Screenshot 2024-12-30 155022](https://github.com/user-attachments/assets/55d08ec5-874c-4834-bcb1-69d187b32611)
+
+
+![Screenshot 2024-12-30 155030](https://github.com/user-attachments/assets/c4aa5826-d8cd-4238-b753-bd3d4a519dd0)
+
